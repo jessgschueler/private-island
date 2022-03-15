@@ -1,0 +1,47 @@
+body {
+  background-color: darkslategray;
+  color:beige;
+  margin: 0px;
+}
+
+h1 {
+  background-color:gray;
+  color:black;
+  padding: 10px;
+}
+
+h2 {
+  padding: 10px;
+}
+
+p {
+  padding-left: 10px;
+}
+
+ul {
+  padding: 10px;
+}
+
+a:link {
+ text-decoration: none;
+ color:aquamarine;
+}
+
+a:visited {
+  text-decoration: none;
+  color:aqua;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+img {
+  margin-top: 20px;
+  padding: 5px;
+  width: 300px;
+}
